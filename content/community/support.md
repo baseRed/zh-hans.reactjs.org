@@ -30,6 +30,8 @@ Each community consists of many thousands of React users.
 * [Reddit's React community](https://www.reddit.com/r/reactjs/)
 * [Spectrum's React community](https://spectrum.chat/react)
 
+
+
 ## News {#news}
 
 For the latest news about React, [follow **@reactjs** on Twitter](https://twitter.com/reactjs) and the [official React blog](/blog/) on this website.
